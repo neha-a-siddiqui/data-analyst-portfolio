@@ -21,7 +21,7 @@ This repository showcases my projects in **data analysis, machine learning, visu
 - **Deliverables**: [Notebook](projects/customer-churn/SiddiquiNeha_CustomerChurnAnalysis.ipynb) | [HTML Report](projects/customer-churn/SiddiquiNeha_CustomerChurnAnalysis.html)
 
 ---
-## 2. Agency241 SQL Database Development (Group Project)
+### 2. Agency241 SQL Database Development (Group Project)
 - **Goal**: Centralize and organize student and client data for efficient access and management.
 - **Techniques**: Conceptual & logical data modeling, data dictionary creation, SQL table creation and relationship design, query testing.
 - **Deliverables**: SQL database with tables and relationships, tested SQL queries, data dictionary, and conceptual/logical models. [Full Report](projects/agency241-sqldatabase/Agency241_SQLDatabase.pdf)
