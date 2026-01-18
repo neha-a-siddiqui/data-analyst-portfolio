@@ -29,9 +29,9 @@ This repository showcases my projects in **data analysis, machine learning, visu
 
 ---
 ### 3. Pet Supplies Inventory Excel Report
-- **Goal**: Determine inventory levels, total value of inventory on hand, and identify any Inventory Values greater than $30,000 for the Food & Health department.
+- **Goal**: Determine inventory levels, total value of inventory on hand, and identify any Inventory Values greater than $30,000 in the Food & Health department.
 - **Techniques**: Data Cleaning, Conditional Formatting, Visual Report.
-- **Deliverables**:[View Report](projects/PetSuppliesInventory.pdf)
+- **Deliverables**: [View Report](projects/PetSuppliesInventory.pdf)
 
 ---
 ### 4. Voting Behavior Analysis
@@ -45,7 +45,6 @@ This repository showcases my projects in **data analysis, machine learning, visu
 - **Goal**: Predict wine quality using regression-based models.
 - **Techniques**: OLS Regression, Regression Trees, SVR, MLP Neural Networks,CRISP-DM methodology
 - **Deliverables**: [Notebook](projects/wine-quality/SiddiquiNeha_WineQuality.ipynb) | [HTML Report](projects/wine-quality/SiddiquiNeha_WineQuality.html)
-
 
 ---
 
