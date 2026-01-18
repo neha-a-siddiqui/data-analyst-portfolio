@@ -13,7 +13,7 @@ This repository showcases my projects in **data analysis, machine learning, visu
 - **Other**: Google Colab Notebooks, HTML Reports, Data Visualization, Excel
 
 ---
-## 🚀 Featured Projects
+## ★ Featured Projects
 
 ### 1. Customer Churn Prediction
 - **Goal**: Predict customer churn using decision trees and identify key drivers of retention.
@@ -24,7 +24,8 @@ This repository showcases my projects in **data analysis, machine learning, visu
 ### 2. Agency241 SQL Database Development (Group Project)
 - **Goal**: Centralize and organize student and client data for efficient access and management.
 - **Techniques**: Conceptual & logical data modeling, data dictionary creation, SQL table creation and relationship design, query testing.
-- **Deliverables**: SQL database with tables and relationships, tested SQL queries, data dictionary, and conceptual/logical models. [Full Report](projects/agency241-sqldatabase/Agency241_SQLDatabase.pdf)
+- **Deliverables**: SQL database with tables and relationships, tested SQL queries, data dictionary, and conceptual/logical models.
+  [Full Report](projects/agency241-sqldatabase/Agency241_SQLDatabase.pdf)
 
 ---
 
