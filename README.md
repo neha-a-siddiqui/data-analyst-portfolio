@@ -13,7 +13,7 @@ This repository showcases my projects in **data analysis, machine learning, visu
 - **Other**: Google Colab Notebooks, HTML Reports, Data Visualization, Excel
 
 ---
-## ★ Featured Projects
+##  ˚⋆. Featured Projects ˚⋆.
 
 ### 1. Customer Churn Prediction
 - **Goal**: Predict customer churn using decision trees and identify key drivers of retention.
@@ -31,8 +31,8 @@ This repository showcases my projects in **data analysis, machine learning, visu
 ### 3. Pet Supplies Inventory Excel Report
 - **Goal**: Determine inventory levels, total value of inventory on hand, and identify any Inventory Values greater than $30,000 for the Food & Health department.
 - **Techniques**: Data Cleaning, Conditional Formatting, Visual Report.
-- **Deliverables**: [View Report](projects/PetSuppliesInventory.pdf)
-  
+- **Deliverables**:[View Report](projects/PetSuppliesInventory.pdf)
+
 ---
 ### 4. Voting Behavior Analysis
 - **Goal**: Predict whether counties vote "Yes" or "No" on gaming legalization using multiple models.
