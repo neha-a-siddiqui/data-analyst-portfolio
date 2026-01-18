@@ -28,15 +28,19 @@ This repository showcases my projects in **data analysis, machine learning, visu
   [Full Report](projects/agency241-sqldatabase/Agency241_SQLDatabase.pdf)
 
 ---
-
-### 3. Voting Behavior Analysis
+### 3. Pet Supplies Inventory Excel Report
+- **Goal**: Determine inventory levels, total value of inventory on hand, and identify any Inventory Values greater than $30,000 for the Food & Health department.
+- **Techniques**: Data Cleaning, Conditional Formatting, Visual Report.
+- **Deliverables**: [View Report](projects/agency241-sqldatabase/Agency241_SQLDatabase.pdf)
+---
+### 4. Voting Behavior Analysis
 - **Goal**: Predict whether counties vote "Yes" or "No" on gaming legalization using multiple models.
 - **Techniques**: Decision Trees, Naïve Bayes, KNN, 5-fold cross-validation, CRISP-DM methodology
 - **Deliverables**: [Notebook](projects/voting-behavior/SiddiquiNeha_VotingBehavior.ipynb) | [HTML Report](projects/voting-behavior/SiddiquiNeha_VotingBehavior.html)
 
 ---
 
-### 4. Wine Quality Prediction
+### 5. Wine Quality Prediction
 - **Goal**: Predict wine quality using regression-based models.
 - **Techniques**: OLS Regression, Regression Trees, SVR, MLP Neural Networks,CRISP-DM methodology
 - **Deliverables**: [Notebook](projects/wine-quality/SiddiquiNeha_WineQuality.ipynb) | [HTML Report](projects/wine-quality/SiddiquiNeha_WineQuality.html)
