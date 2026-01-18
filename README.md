@@ -32,6 +32,7 @@ This repository showcases my projects in **data analysis, machine learning, visu
 - **Goal**: Determine inventory levels, total value of inventory on hand, and identify any Inventory Values greater than $30,000 for the Food & Health department.
 - **Techniques**: Data Cleaning, Conditional Formatting, Visual Report.
 - **Deliverables**: [View Report](projects/PetSuppliesInventory.pdf)
+  
 ---
 ### 4. Voting Behavior Analysis
 - **Goal**: Predict whether counties vote "Yes" or "No" on gaming legalization using multiple models.
