@@ -1,13 +1,13 @@
 # Hi I'm Neha!
-## Welcome to my 📊 Data Analytics & Machine Learning Portfolio!
+## Welcome to my Data Analytics & Machine Learning Portfolio!
 
 This repository showcases my projects in **data analysis, machine learning, visualization, and database development**. Each project applies real-world datasets and techniques such as **regression, classification, decision trees, and SQL database design**, with a focus on generating **actionable insights**.
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
-- **Languages**: Python, SQL
+- **Languages**: Python, SQL, Excel
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Techniques**: Data Cleaning, Feature Engineering, Supervised Learning, Cross-validation  
 - **Other**: Google Colab Notebooks, HTML Reports, Data Visualization, Excel
